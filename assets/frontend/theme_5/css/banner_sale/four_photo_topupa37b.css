@@ -1,0 +1,27 @@
+#topup_bottom_container {
+    position: fixed;
+    bottom: 2px;
+    width: 100%;
+    padding: 0px 20px 0px;
+    z-index: 999;
+}
+#topup_bottom .close {
+    position: absolute;
+    top: -20px;
+    display: inline-block;
+}
+#topup_bottom #btn-close {
+    color: #fff;
+    font-size: 12px;
+    padding: 5px 15px 4px;
+    font-weight: 700;
+    white-space: nowrap;
+    background-color: #000000b3;
+    margin: 0px 0 0 -10px;
+    cursor: pointer;
+}
+#topup_bottom img {
+    max-width: 100%;
+    width: 612px;
+    max-height: 60px;
+}
