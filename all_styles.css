@@ -31767,7 +31767,7 @@
   }
   /* INPUT */
   /*default*/
-  input[type=text] {
+  input[type=text], input[type=email],input[type=tel] {
     width:100%;
     font-weight:400;
     font-size:13px;
